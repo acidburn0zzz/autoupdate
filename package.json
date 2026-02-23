@@ -25,7 +25,7 @@
     "glob": "^7",
     "is-there": "^4.4.3",
     "lodash": "^4.17.4",
-    "nodegit": "^0.20",
+    "nodegit": "^0.27",
     "semver-stable": "^2.0.4"
   },
   "engines": {
