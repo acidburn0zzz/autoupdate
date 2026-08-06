@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cdnjs/autoupdate",
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "colors": "^1.1",
     "compare-versions": "^3.1.0",
     "fs-extra": "^4.0.2",
@@ -25,14 +25,14 @@
     "glob": "^7",
     "is-there": "^4.4.3",
     "lodash": "^4.17.4",
-    "nodegit": "^0.20",
+    "nodegit": "^0.27",
     "semver-stable": "^2.0.4"
   },
   "engines": {
     "node": "^8"
   },
   "devDependencies": {
-    "echint": "^4.0.1",
+    "echint": "^4.0.2",
     "jscs": "^3.0.7"
   }
 }
